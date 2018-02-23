@@ -1,5 +1,5 @@
 protocol Toy {
 
   func isMoved()
-  var type: String  { get }
+ var type: String  { get }
 }
